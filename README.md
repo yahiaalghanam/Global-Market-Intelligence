@@ -1,5 +1,10 @@
 # 🌍 Global Market Intelligence
 
+<img src="Images/DASH.png" width="800"/>
+
+
+
+
 A modern **data analytics platform** that integrates **gold prices, currency exchange rates, and inflation indicators** into a unified analytical system to generate actionable economic insights.
 
 ---
